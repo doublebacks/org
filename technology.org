@@ -1,5 +1,38 @@
-* Tasks
-** TODO Write weekly status
-** TODO Build a TOT tree
-** TODO Call DangDang
+* GitHub Howto
+
+Global setup:
+
+  Download and install Git
+  git config --global user.name "Your Name"
+  git config --global user.email doublebacks@gmail.com
+        
+
+Next steps:
+
+  mkdir myconfig
+  cd myconfig
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:doublebacks/myconfig.git
+  git push origin master
+      
+
+Existing Git Repo?
+
+  cd existing_git_repo
+  git remote add origin git@github.com:doublebacks/myconfig.git
+  git push origin master
+      
+
+Importing a SVN Repo?
+
+  Click here
+      
+
+When you're done:
+
+  Continue
+
 
