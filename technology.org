@@ -50,7 +50,7 @@ Existing Git Repo?
 git clone git@github.com:doublebacks/myconfig.git # clone a repository into a new directory
 git add <paths>                       # add or edit files
 git commit -m "<comment>" <paths>     # commit added/edited files
-git push origin master                # submit files to repo/branch
+git push origin master                # sync files to repo/branch
 git fetch                             # Download version info and index.
 git pull origin master                # sync your local tree = git fetch + git merge
 git checkout <branch>                 # switch branch
