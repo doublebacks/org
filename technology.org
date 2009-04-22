@@ -1,5 +1,6 @@
 * GitHub Howto
 
+** GitHub Setup
 Global setup:
 
   Download and install Git
@@ -26,17 +27,8 @@ Existing Git Repo?
   git push origin master
       
 
-Importing a SVN Repo?
 
-  Click here
-      
-
-When you're done:
-
-  Continue
-
-
-How to create ssh public key:
+** How to provide your ssh public key:
 ([[http://github.com/guides/providing-your-ssh-key]])
   ssh-keygen
   Copy the key (text) to GitHub
@@ -46,3 +38,11 @@ How to create ssh public key:
     Port 22
     Hostname github.com
     IdentityFile ~/.ssh/id_rsa
+
+** Getting a copy of your github repo
+   1.  Add your SSH key (and make sure ssh is configured to find your private key)
+   2. Copy your Clone URL from the repository homepage
+   3. At the local computer go to directory that you want to contain your code
+   4. Just enter the single command git clone [clone_url] where [clone_url] is something like git@github.com:johndoe/myproject.git
+
+
