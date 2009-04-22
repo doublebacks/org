@@ -36,3 +36,13 @@ When you're done:
   Continue
 
 
+How to create ssh public key:
+([[http://github.com/guides/providing-your-ssh-key]])
+  ssh-keygen
+  Copy the key (text) to GitHub
+  Edit your ~/.ssh/config (not necessary?):
+    Host github.com
+    User git
+    Port 22
+    Hostname github.com
+    IdentityFile ~/.ssh/id_rsa
