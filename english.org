@@ -1,0 +1,35 @@
+#+TAGS: { GlobalEnglish(g) Syntax(s) Vocabulary(v) Others(o) }
+
+
+
+* Global English 5-14                                         :GlobalEnglish:
+** but, yet, however, even though, although, though
+[[http://www.globalenglish.com][Global English]]
+but和yet将两个分句连为一个句子时，逗号置于它们之前。
+even though/although/though位于句首时，分句要加逗号，位于两句之间则不要。
+"however" 用来显示意思之间的对比关系。"however" 可以置于第二个分句的不同
+位置，显示两个句子意思之间的对比关系。在写作中，通常用逗号将 "however" 与
+句子的其余部分分开。
+** clientele                                                     :Vocabulary:
+** Interrupting Appropriately
+I'm sorry to interrupt, but...
+Excuse me for interrupting, but...
+Sorry, but...
+Excuse me, but...
+
+...may I say something?
+...may I add someting?
+...I'd like to comment on that.
+...may I ask a question?
+...What did you say?
+
+sure
+of course
+go ahead
+Just a moment
+Just a moment, May I finish, please?
+
+(Back to a topic)
+To get back to what I was saying...
+As I was saying...
+Where was I?

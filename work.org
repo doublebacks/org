@@ -1,0 +1,43 @@
+#+TAGS: { GF100_Formal(f) GF106_Synthesis(s) }
+
+* Tasks
+** DONE Write weekly status
+   CLOSED: [2009-04-21 Tue 10:18]
+** DONE Build a TOT tree
+   CLOSED: [2009-04-21 Tue 10:18]
+** DONE Call DangDang
+   CLOSED: [2009-04-20 Mon 14:44]
+** DONE Write a script to compare NV_busses
+   CLOSED: [2009-04-21 Tue 11:43]
+   
+** TODO Attend insurance meeting
+** TODO Daily update for gf100
+
+* Work Notes
+** Golden Formality for CL#3974081                             :GF100_Formal:
+*** NV_FBIO_priv.gv failed:
+Change 3968108 by gmendel@AS2_client613752_2001 on 2009/04/18 02:02:55
+
+        RTL fix for for bug 543895.
+        Adding synchronizer for fbcal2fbdramc_c[0-1]_cal_upd_pending signals before going to fabric,
+        and removing the flop for training_c$[0-1]_wheels_on coming from the fabric.  training_wheels_on
+        will be susceptable to glitching, but since the signals involved are essentially static, this has
+        been deemed acceptable.
+
+        AS2 Bundle ID A200795
+
+Affected files ...
+
+... //hw/fermi1_gf100/vmod/fb_pa/NV_FBIO_misc.vx#3 edit
+... //hw/fermi1_gf100/vmod/fb_pa/NV_FBIO_priv.vx#104 edit
+
+*** NV_xve.gv failed:
+//layout/gf100/net/gf100/release/NV_gsys/NV_xve.gv
+... #15 change 3970266 edit on 2009/04/19 by ltian@ltian_fermi1 (ctext) 'Latest Hierarchy ECO script for'
+... #14 change 3969138 edit on 2009/04/18 by ltian@ltian_fermi1 (ctext) 'Hier ECO script for Bug 543636 '
+
+*** NV_g2fb.gv/NV_G2FBP_FBP0_CLK_dramclk.gv/NV_G2FBP_FBP1_CLK_dramclk.gv failed:
+eco542021 applied to hier netlists.
+
+*** nv_top.gv/NV_gsys.gv failed:
+eco541618 applied to hier netlist.
