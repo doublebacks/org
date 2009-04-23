@@ -33,3 +33,19 @@ Just a moment, May I finish, please?
 To get back to what I was saying...
 As I was saying...
 Where was I?
+
+* Global English 5-15
+** and
+and在正式英语中不可用在句首，非正式可以。
+** as well as
+as well as用在两个词或词组之间，不能连接两个句子。
+** too, also
+too位于句尾；also可位于多个位置，但不能位于动词和宾语之间。
+** in addition, furthermore
+意思与too, also相同，但更为正式，通常置于句首。
+
+** Asking for more information
+Could you tell me more about...
+Could I hear more about (your idea)?
+Could you explain your idea in more detail?
+前两个不要使用in more detail并且about不能和explain连用

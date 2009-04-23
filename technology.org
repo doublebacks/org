@@ -55,3 +55,5 @@ git fetch                             # Download version info and index.
 git pull origin master                # sync your local tree = git fetch + git merge
 git checkout <branch>                 # switch branch
 git checkout -- <paths>               # check out file
+
+
