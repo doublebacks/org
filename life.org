@@ -1,5 +1,2 @@
 * Tasks
-** TODO Write weekly status
-** TODO Build a TOT tree
-** TODO Call DangDang
-
+* TODO 带铁架子回家

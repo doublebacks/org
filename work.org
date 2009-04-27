@@ -40,4 +40,4 @@ Affected files ...
 eco542021 applied to hier netlists.
 
 *** nv_top.gv/NV_gsys.gv failed:
-eco541618 applied to hier netlist.
+    eco541618 applied to hier netlist.
