@@ -15,7 +15,8 @@
 
 * Work Notes
 ** Golden Formality for CL#3974081                             :GF100_Formal:
-*** NV_FBIO_priv.gv failed:
+*** DONE NV_FBIO_priv.gv failed:
+    CLOSED: [2009-05-05 Tue 20:04]
 Change 3968108 by gmendel@AS2_client613752_2001 on 2009/04/18 02:02:55
 
         RTL fix for for bug 543895.
@@ -41,3 +42,22 @@ eco542021 applied to hier netlists.
 
 *** nv_top.gv/NV_gsys.gv failed:
     eco541618 applied to hier netlist.
+** Golden Formality for cl#4020594 (090504)<2009-05-04 Mon>
+setup
+try1: make -j relfec in Makefile
+try2: make -j10 relfec in Makefile
+try3: make -j golden_formality in command line
+try4: make -j10 golden_formality in command line
+   
+
+** noscan2flat for HB:<2009-05-05 Tue>
+547583 not in flat.
+543591 not in golden or need pin equivalence in golden?
+545282 connect these 2 ports to 0:
+add_primary_input sys_pads/pads_gen/ptp_scan_debug_scanout -golden
+add_primary_input sys_pads/pads_gen/ptp_scan_access_scanout -golden
+add_pin_constraints 0 sys_pads/pads_gen/ptp_scan_debug_scanout -golden
+add_pin_constraints 0 sys_pads/pads_gen/ptp_scan_access_scanout -golden
+
+** get parent module in mender
+get_parent_objs <modulename>: return parent module name and son instance name

@@ -1,7 +1,5 @@
 #+TAGS: { GlobalEnglish(g) Syntax(s) Vocabulary(v) Others(o) }
 
-
-
 * Global English 5-14                                         :GlobalEnglish:
 ** but, yet, however, even though, although, though
 [[http://www.globalenglish.com][Global English]]
@@ -34,7 +32,7 @@ To get back to what I was saying...
 As I was saying...
 Where was I?
 
-* Global English 5-15
+* Global English 5-15                                         :GlobalEnglish:
 ** and
 and在正式英语中不可用在句首，非正式可以。
 ** as well as
@@ -62,8 +60,8 @@ I'd like to hear more about
 6.prefer to do A raher than do B 喜欢做A，不喜欢作B
 7.prefer to do A than do B 喜欢做A，不喜欢作B
 
-* Global English 6-10
-** Vocabulary
+* Global English 6-10                                         :GlobalEnglish:
+** Vocabulary                                                    :Vocabulary:
 opposed to 反对，对抗
 spread yourself too thin 做太多事情，性急
 set oneself up 做（有消极结果的）事，接不定式或for
@@ -106,3 +104,36 @@ Look at it from this angle.
 
 But in the long run, ...
 But down the road, ...
+
+* Global English 6-11
+** Vocabulary
+royalty 版税
+prestigious 有声望的
+tastefully 高雅地
+** Making an offer
+Would you be intereated in ...?
+Would you consider ...?
+How does ... sound?
+We'd like you to considier ...
+** Accepting an offer
+... sounds reasonable/acceptable.
+We're willing to agree to ...
+That's fine.
+** Declining an offer
+We understand your position, but ...
+I'm sorry, but we can't agree to ...
+I'm afraid we can't accept ...
+
+
+* Global English 6-12
+** Vocabulary
+propose a toast 提议干杯
+things are looking up 情况好转
+festive 喜庆的
+** 真实条件句
+*** If分句的动词总是用一般现在时，可以在句首，也可以在句尾
+*** 经常发生的情况，主句的动词要用一般现在时
+*** 事实或一般真理，主句可以用一般现在时，也可以用将来时
+*** 将来可能发生的事情，主句用will+动词
+
+
